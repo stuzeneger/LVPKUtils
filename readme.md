@@ -12,3 +12,6 @@ pip install git+https://github.com/stuzeneger/LVPKUtils.git
 import lvpkutils
 lvpkutils.validLVPersonCode("161177-11495")
 True
+
+**Izmatots PYTHON kodā:**
+Regex, datetime, enumerate, lambda
