@@ -5,13 +5,13 @@ Nosacījumi, personaas kods ir LV, ja:<br>
 2)	No pirmajiem 6 personas koda cipariem var iegūt derīgu dzimšanas datumu<br>
 3)	Personas koda visu ciparu izņemot pēdējot kontrolsumma atbilst pēdējam personas koda ciparam<br>
 
-**Instalācija:**
+**Instalācija:**<br>
 pip install git+https://github.com/stuzeneger/LVPKUtils.git 
 
-**Lietošana:**
+**Lietošana:**<br>
 import lvpkutils<br>
 lvpkutils.validLVPersonCode("161177-11495")<br>
 True<br>
 
-**Izmatots PYTHON kodā:**
+**Izmatots PYTHON kodā:**<br>
 Regex, datetime, enumerate, lambda
